@@ -37,7 +37,7 @@ const ServicesSection = () => {
   };
 
   return (
-    <section className="px-6 md:px-16 py-20">
+    <section className="px-6 md:px-16 pt-2 pb-4 md:py-20">
       <div className="text-center mb-12">
         <h2 className="text-white text-4xl font-semibold font-serif mb-2">
           Our Dynamic Services Suite!

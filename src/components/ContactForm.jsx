@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactForm = () => {
   return (
-    <section className="px-6 md:px-16 py-20">
+    <section className="px-6 md:px-16 pt-2 pb-4 md:py-10">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12 items-start">
 
         <div className="order-2 md:order-1 md:col-span-2 space-y-10">

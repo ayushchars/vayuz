@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="relative overflow-hidden flex flex-col md:flex-row items-center justify-between px-4 sm:px-8 md:px-16 py-16 md:py-20 bg-black">
+      <section className="relative overflow-hidden flex flex-col md:flex-row items-center justify-between px-4 sm:px-8 md:px-16 pt-2 pb-4 md:py-20 bg-black">
       <div className="absolute right-0 top-0 w-[40%] sm:w-[30%] md:w-[20%] h-full bg-gradient-to-l from-[#122719] [#11292F] to-transparent opacity-70 z-0 pointer-events-none"></div>
       <div className="w-full md:w-[40%] z-10 text-center md:text-left">
         <h1 className="text-[32px] sm:text-[38px] md:text-[43px] leading-[40px] sm:leading-[48px] md:leading-[52px] font-medium font-serif text-white mb-4">

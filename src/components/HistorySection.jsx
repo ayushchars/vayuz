@@ -3,7 +3,7 @@ import { GoArrowUpRight } from 'react-icons/go';
 
 const HistorySection = () => {
   return (
-    <section className="px-6 md:px-16 py-20">
+    <section className="px-6 md:px-16 pt-2 pb-4 md:py-20">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-start relative">
 
         <div>
